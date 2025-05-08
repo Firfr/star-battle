@@ -1,31 +1,31 @@
 <p align="center">
-	English | <a href="https://github.com/gd4Ark/star-battle/blob/master/README-CN.md">简体中文</a> | <a href="/README-RU.md">Russian</a>
-</p>
+	<a href="https://github.com/gd4Ark/star-battle/blob/master/README.md">English</a> | 简体中文
 
 ![star-battle](https://socialify.git.ci/gd4Ark/star-battle/image?description=1&font=Inter&forks=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fgd4Ark%2Fstar-battle%2Fmaster%2Fimg%2Flogo-01.png&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Light)
 
-> A spaceship shooting game developed using JavaScript ES6, Canvas.
+
+> 一个使用 JavaScript ES6、Canvas 开发的飞船射击类游戏。
 >
-> Topics in the 2017 Abu Dhabi World Skills Competition.
+> 原为 2017 年阿布扎比世界技能大赛中的题目，后经作者自行开发。
 
-## Demo Preview
+## Demo 预览
 
-Online view：[link](https://4ark.me/star-battle)
+在线预览地址：[链接](https://4ark.me/star-battle)
 
-## Game Rules
+## 游戏规则
 
-1. Press  `W`、`A`、`S`、`D` control spacecraft，Press `Space` fire.
-2. The initial fuel value is 15. Decrement by 1 point per second. When the fuel value is 0, the game is over.
-3. The fuel bottle that touches it can be increased by 15 points and the maximum value is 30 points.
-4. Hit the enemy spacecraft to increase by 5 points. The planet needs to hit twice, increasing by 10 points. Hit the friend to deduct 10 points.
-5. Collision enemy loses 15 points of fuel, and the friendly party deducts 10 points.
-6. Game allows negative points.
-7. Press `P` Pause game. Press `M` mute。
+1. 使用 `W`、`A`、`S`、`D` 控制飞船，按下 `Space`发射。
+2. 燃料初始值为15，每秒递减1点，当燃料值为0时，游戏结束。
+3. 触碰掉下的燃料瓶可增加15点，最大值为30点。
+4. 击中敌方飞船增加5分。行星需击中两次，增加10分。击中友方扣除10分。
+5. 碰撞敌方损失15点燃料，碰撞友方扣除10分。
+6. 游戏允许负分。
+7. 按下 `P` 暂停游戏，按下 `M` 静音。
 
-## Author
+## 作者
 
 > [Blog](https://4ark.me/) · GitHub [@gd4Ark](https://github.com/gd4Ark)
 
-## Conclusion
+## 最后
 
-If you think my project is good👏 . Give a Star⭐ encouragement.
+如果觉得我的项目还不错的话👏 ，就给个 star ⭐ 鼓励一下吧~
