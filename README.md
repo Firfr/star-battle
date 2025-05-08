@@ -1,5 +1,6 @@
 <p align="center">
-	<a href="https://github.com/gd4Ark/star-battle/blob/master/README.md">English</a> | 简体中文
+	简体中文 | <a href="README-EN.md">English</a>
+</p>
 
 ![star-battle](https://socialify.git.ci/gd4Ark/star-battle/image?description=1&font=Inter&forks=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fgd4Ark%2Fstar-battle%2Fmaster%2Fimg%2Flogo-01.png&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Light)
 
