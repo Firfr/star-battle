@@ -1,6 +1,8 @@
 body {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
     color: #ddd;
     overflow: hidden;
 }
@@ -166,10 +168,10 @@ table {
 }
 
 footer{
-    flex: 1;
+    /* flex: 1;
     display: flex;
     align-items: flex-end;
-    justify-content: center;
+    justify-content: center; */
     padding-bottom: 10px;
     color: #333;
     font-size: .8rem;
